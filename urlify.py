@@ -1,6 +1,4 @@
 #!/usr/bin/python3
-import unittest
-
 def urlify(str, true_length):
 
     arr = list(str)

@@ -1,4 +1,3 @@
-#!/usr/bin/python3
 def pascal(level, column):
     if level == 1:
         return 1

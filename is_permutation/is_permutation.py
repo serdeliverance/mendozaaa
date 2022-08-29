@@ -1,4 +1,3 @@
-#!/usr/bin/python3
 def is_permutation(string_a, string_b):
 
     if len(string_a) != len(string_b):
