@@ -26,10 +26,3 @@ def char_frequencies(string):
             frequencies[c] += 1
 
     return frequencies
-
-
-print(is_permutation("asd", "bbbfeef")) # false
-print(is_permutation("casa", "pedo")) # false
-print(is_permutation("asac23", "casa23")) # true
-print(is_permutation("12jitu23", "31tjui22")) # true
-print(is_permutation("asac23", "cazsa23")) # false
