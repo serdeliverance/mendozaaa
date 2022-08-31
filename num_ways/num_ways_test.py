@@ -4,6 +4,10 @@ from num_ways import num_ways
 class NumWaysTest(unittest.TestCase):
 
     def test_basic_scenario(self):
+        result = num_ways(1)
+        self.assertEquals(1, result)
+
+    def test_basic_scenario_2(self):
         result = num_ways(2)
         self.assertEquals(2, result)
 
