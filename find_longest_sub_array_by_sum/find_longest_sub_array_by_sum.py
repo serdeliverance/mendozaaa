@@ -1,5 +1,4 @@
 def find_longest_sub_array_by_sum(arr, target):
-    # TODO: implement best solution
     return find_longest_sub_array_by_sum_brute_force(arr, target)
 
 """

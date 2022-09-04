@@ -1,5 +1,5 @@
 # Mendozaaa
 
-This is my revenge. This is my fucking revenge...
+Practicing coding challenges from time to time
 
 ![Alt text](diagrams/mendozaaa.png?raw=true "Mendozaaa!")
